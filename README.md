@@ -1,0 +1,2 @@
+firefox-sample-addon
+====================
